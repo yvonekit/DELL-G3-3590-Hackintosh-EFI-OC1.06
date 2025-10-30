@@ -41,6 +41,7 @@ Model | `MacBookPro16,4` | OS | `Tahoe 26.0 (25A354)` | OC | `1.0.6`
 声卡要打补丁<br>
 https://github.com/laobamac/OCLP-Mod <br>
 无线网卡要用第三方软件每次开机手动打开<br>
+https://github.com/OpenIntelWireless/HeliPort/releases<br>
 系统安装<br>https://www.youtube.com/watch?v=sExHGmX23gY<br> macOS Tahoe 声卡修复<br>https://www.bilibili.com/video/BV1xWKkzbEjT/?spm_id_from=333.1387.homepage.video_card.click&vd_source=885908cf58f0a7f20ba1e0ae12c0d6c3
 https://github.com/OpenIntelWireless/HeliPort/releases
 
