@@ -1,4 +1,4 @@
-# 已更新opencore和内核版本，现已支持最新macOS Tahoe 26.0 (25A354)!!<br>
+# 支持最新macOS Tahoe 26.0 (25A354)!!<br>
 ## Laptop Specifications
 
 Model     | Dell g3 15 3590 9<sup>th</sup> gen
