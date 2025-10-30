@@ -10,7 +10,7 @@ Resolution| 15.6 inch FHD (1920 x 1080) 30 0 nits IPS Anti-Glare LED Back lit Di
 RAM       | 16GB, 2x8GB, DDR4 (2666MHz) 
 Storage   | PC611 NVMe SK hynix 1TB
 Audio     | Realtek ALC295
-WIFI      | Intel AC9560 
+WIFI      | Intel AC9462
 Touchpad  | I2C1 HID TPD0
 Bios      | 2.1.0 `Recommended`
 
