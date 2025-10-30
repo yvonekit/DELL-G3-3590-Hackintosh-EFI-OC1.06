@@ -38,9 +38,9 @@ Model | `MacBookPro16,4` | OS | `Tahoe 26.0 (25A354)` | OC | `1.0.6`
 
 ✅所有 USB 端口（包括type-c）<br>
 ✅外接显示器使用type-c <br>
-声卡要打补丁
-https://github.com/laobamac/OCLP-Mod 
-无线网卡要用第三方软件每次开机手动打开
+声卡要打补丁<br>
+https://github.com/laobamac/OCLP-Mod <br>
+无线网卡要用第三方软件每次开机手动打开<br>
 https://github.com/OpenIntelWireless/HeliPort/releases
 
 
