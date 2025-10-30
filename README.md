@@ -1,4 +1,4 @@
-# Hackintosh-Dell-g3-15-3590<br>
+# 已更新opencore和内核版本，现已支持最新macOS Tahoe 26.0 (25A354)!!<br>
 ## Laptop Specifications
 
 Model     | Dell g3 15 3590 9<sup>th</sup> gen
@@ -19,7 +19,7 @@ Bios      | 2.1.0 `Recommended`
 Model | `MacBookPro16,4` | OS | `Tahoe 26.0 (25A354)` | OC | `1.0.6` 
 ---|---|---|---|---|---
 
-## 已更新opencore和内核版本，现已支持最新macOS Tahoe 26.0 (25A354)!!
+
 
 
 ##  什么是有效的
