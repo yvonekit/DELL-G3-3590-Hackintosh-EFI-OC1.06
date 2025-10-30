@@ -3,7 +3,7 @@
 
 ## configuration
 
-Model | `MacBookPro16,4` | OS | `macOS Ventura` | OC | `1.0.6` 
+Model | `MacBookPro16,4` | OS | `Tahoe 26.0 (25A354)` | OC | `1.0.6` 
 ---|---|---|---|---|---
 
 ## 已更新opencore和内核版本，现已支持最新macOS Tahoe 26.0 (25A354)!!
